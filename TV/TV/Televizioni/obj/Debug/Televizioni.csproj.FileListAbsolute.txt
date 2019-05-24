@@ -1,0 +1,80 @@
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\bin\Debug\Televizioni.exe.config
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\bin\Debug\Televizioni.exe
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\bin\Debug\Televizioni.pdb
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\obj\Debug\Televizioni.csprojResolveAssemblyReference.cache
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\obj\Debug\Televizioni.Form1.resources
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\obj\Debug\Televizioni.frmRegjistroAbonimin.resources
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\obj\Debug\Televizioni.frmRegjistroProgramin.resources
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\obj\Debug\Televizioni.Properties.Resources.resources
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\obj\Debug\Televizioni.csproj.GenerateResource.Cache
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\obj\Debug\Televizioni.exe
+c:\users\mali\documents\visual studio 2015\Projects\Televizioni\Televizioni\obj\Debug\Televizioni.pdb
+F:\Televizioni\Televizioni\bin\Debug\Televizioni.exe.config
+F:\Televizioni\Televizioni\obj\Debug\Televizioni.exe
+F:\Televizioni\Televizioni\obj\Debug\Televizioni.pdb
+C:\Users\DC\Desktop\Televizioni\Televizioni\bin\Debug\Televizioni.exe.config
+C:\Users\DC\Desktop\Televizioni\Televizioni\obj\Debug\Televizioni.exe
+C:\Users\DC\Desktop\Televizioni\Televizioni\obj\Debug\Televizioni.pdb
+C:\Users\DC\Desktop\Televizioni\Televizioni\bin\Debug\Televizioni.exe
+C:\Users\DC\Desktop\Televizioni\Televizioni\bin\Debug\Televizioni.pdb
+C:\Users\DC\Desktop\Televizioni\Televizioni\obj\Debug\Televizioni.csprojResolveAssemblyReference.cache
+C:\Users\DC\Desktop\Televizioni\Televizioni\obj\Debug\Televizioni.Form1.resources
+C:\Users\DC\Desktop\Televizioni\Televizioni\obj\Debug\Televizioni.frmRegjistroAbonimin.resources
+C:\Users\DC\Desktop\Televizioni\Televizioni\obj\Debug\Televizioni.frmRegjistroProgramin.resources
+C:\Users\DC\Desktop\Televizioni\Televizioni\obj\Debug\Televizioni.Properties.Resources.resources
+C:\Users\DC\Desktop\Televizioni\Televizioni\obj\Debug\Televizioni.csproj.GenerateResource.Cache
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\bin\Debug\Televizioni.exe.config
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\obj\Debug\Televizioni.exe
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\obj\Debug\Televizioni.pdb
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\bin\Debug\Televizioni.exe
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\bin\Debug\Televizioni.pdb
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\obj\Debug\Televizioni.csprojResolveAssemblyReference.cache
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\obj\Debug\Televizioni.Form1.resources
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\obj\Debug\Televizioni.frmRegjistroAbonimin.resources
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\obj\Debug\Televizioni.frmRegjistroProgramin.resources
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\obj\Debug\Televizioni.Properties.Resources.resources
+C:\Users\DC\Desktop\TelevizioniGresa\Televizioni\obj\Debug\Televizioni.csproj.GenerateResource.Cache
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\bin\Debug\Televizioni.exe.config
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.exe
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.pdb
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\bin\Debug\Televizioni.exe
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\bin\Debug\Televizioni.pdb
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.csprojResolveAssemblyReference.cache
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.Form1.resources
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.frmRegjistroAbonimin.resources
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.frmRegjistroProgramin.resources
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.Properties.Resources.resources
+C:\Users\Rilind\Desktop\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.csproj.GenerateResource.Cache
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\bin\Debug\Televizioni.exe.config
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.exe
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.pdb
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\bin\Debug\Televizioni.exe
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\bin\Debug\Televizioni.pdb
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.csprojResolveAssemblyReference.cache
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.Form1.resources
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.frmRegjistroAbonimin.resources
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.frmRegjistroProgramin.resources
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.Properties.Resources.resources
+C:\Users\Mali\Desktop\TV\TelevizioniGresa_2\Televizioni\obj\Debug\Televizioni.csproj.GenerateResource.Cache
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\bin\Debug\Televizioni.exe.config
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.exe
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.pdb
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.csprojResolveAssemblyReference.cache
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.Form1.resources
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.frmRegjistroAbonimin.resources
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.frmRegjistroProgramin.resources
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.Properties.Resources.resources
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.csproj.GenerateResource.Cache
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\bin\Debug\Televizioni.exe
+C:\Users\Mali\Desktop\TV\MALI_TV\Televizioni\bin\Debug\Televizioni.pdb
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\bin\Debug\Televizioni.exe.config
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.exe
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.pdb
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\bin\Debug\Televizioni.exe
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\bin\Debug\Televizioni.pdb
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.csprojResolveAssemblyReference.cache
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.Form1.resources
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.frmRegjistroAbonimin.resources
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.frmRegjistroProgramin.resources
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.Properties.Resources.resources
+C:\Users\Fatbardhi\Desktop\TV\MALI_TV\Televizioni\obj\Debug\Televizioni.csproj.GenerateResource.Cache
